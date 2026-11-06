@@ -1,0 +1,11 @@
+{
+  "title": "Jadeite Systems · Installer app",
+  "description": "Installer mobile app prototype (375 × 812)",
+  "language": "en-GB",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "favicon.png"
+  }
+}
